@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{2249D28B-56A2-4C18-A42E-4EE4806DA1F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{6106A91F-09DD-411D-AEBA-3547EE31D758}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays&Strings", "Arrays&Strings", "{CA716C86-3003-4734-A4B7-42A5875DD412}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{44723BB0-80C1-4853-8A1F-D837468988F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo de Pascal", "Triangulo de Pascal\Triangulo de Pascal.csproj", "{AFEF36D1-775B-4DDA-86CE-FC6F4A8F87A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEF36D1-775B-4DDA-86CE-FC6F4A8F87A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEF36D1-775B-4DDA-86CE-FC6F4A8F87A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEF36D1-775B-4DDA-86CE-FC6F4A8F87A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEF36D1-775B-4DDA-86CE-FC6F4A8F87A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA716C86-3003-4734-A4B7-42A5875DD412} = {2249D28B-56A2-4C18-A42E-4EE4806DA1F6}
+		{AFEF36D1-775B-4DDA-86CE-FC6F4A8F87A8} = {44723BB0-80C1-4853-8A1F-D837468988F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5BDEB0-3A10-4AC7-AB8B-EF74DA7EC8B7}
+	EndGlobalSection
+EndGlobal
